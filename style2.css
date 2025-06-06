@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    font-family: var(--font-family);
+    background-color: #f9f9f9;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }

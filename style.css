@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: var(--font-family);
+    background-color: #f9f9f9;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+.Index2{
+    background-color: coral;
+}
+.Index3{ 
+    background-color: rgb(216, 255, 178);
+}
+
